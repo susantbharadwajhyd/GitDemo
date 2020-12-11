@@ -14,6 +14,14 @@ public class SeleniumTest {
 	{
 		System.out.println("elementUI");
 		System.out.println("elementUIone");
+		System.out.println("elementUI1");
+		System.out.println("elementUI2");
+	}
+	@Test
+	public void BrowserAutdomation()
+	{
+		System.out.println("BrowdserAutomation");
+		System.out.println("wrowserAutomation");
 	}
 
 }
